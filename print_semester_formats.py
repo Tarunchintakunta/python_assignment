@@ -1,5 +1,3 @@
-# print_semester_formats.py
-
 import json
 import os
 import re

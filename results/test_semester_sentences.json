@@ -164,6 +164,23 @@
     }
   ],
   "Application_109341359.pdf": [],
+  "Consolidated grade sheet.pdf": [
+    {
+      "sentence": ": 20EG106249 Class Awarded - First Class Eee rs rere ot TPES eee ees ee I- SEMESTER ll - SEMESTER Mathematics-l!",
+      "original_index": 4,
+      "semester_pattern_match": null
+    },
+    {
+      "sentence": "Lab English Communication Skills Lab Il - SEMESTER I- SEMESTER   Computer Systems -  Data Wrangling and Visualization Data Structures 3 Design and Analysis of Algorithms Python Programming Fundamentals of Artificial Intelligence Discrete Mathematics Data Base Management Systems Probability and Statistics Fundamentals of Software Engineering Java Programming Soft Skills for Success Lab Data Wrangling and Visualization Lab Python Programming Lab Data Structures  Java Lab Data Base Management Systems Lab Gender Sensitization Environmental Studies OoOrurroan OOoOn gmDaonNh WD  1 2 3 4 5 6 : 7) 8 Vis :  yy 5) - ,  ; 4 A ) f -  a  2 7s or ; I1- SEMESTER II - SEMESTER Technical and Business Communication Skills Automata Theory and Applications Information Retrieval Systems Computer Vision and Image Processing Fundamentals of lmage Data Mining Verbal Ability and Critical Reasoning Internet of Things Internet of Things Lab Computer Vision and Information Retrieval Systems Lab Essentials of Machine Learning Computer Systems I!",
+      "original_index": 10,
+      "semester_pattern_match": "SEMESTER I"
+    },
+    {
+      "sentence": "Web Programming with MEAN Entrepreneurship Development Web Programming with MEAN Lab Computer Systems Lab Essentials of Machine Learning Lab Quantitative Aptitude and Reasoning NSO and NSS CON DOH WP  I - SEMESTER Il - SEMESTER Natural Language Processing Deep Learning Big Data Cloud Computing Cyber Security Negotiation Skills Natural Language Processing Lab Deep Learning Lab Industry Oriented Mini Project SGPA: 7.68 SGPA: 9.86 Number of credits secured in B Tech Program : 160 CGPA: 7.90 Date of Issue : 12-06-2024 Controller of Examinations Dean Examinations Registrar Comprehensive Viva-Voce Project Work CONDON LP WD  (See overiest for rules concerned to award ot class) Gy AY BETS 5 NV ey) eg VY AI ROAY RIWIAY PES BUA ROY S RR aA RR Te)",
+      "original_index": 11,
+      "semester_pattern_match": "SEMESTER I"
+    }
+  ],
   "Application_981109807.pdf": [
     {
       "sentence": ": : BALARAJU MADHUPRIYA  re S.No Name of the College : 32-B RE C W,HYDERABAD Month  Year of Final Exam ; July,2022 Class Awarded : FIRST CLASS eS SUBJECT TITLE  SEMESTER ll SEMESTER APPLIED PHYSICS PROGRAMMING FOR PROBLEM SOLVING MATHEMATICS -  PROGRAMMING FOR PROBLEM SOLVING LAB APPLIED PHYSICS LAB ENGINEERING GRAPHICS ENVIRONMENTAL SCIENCE   SEMESTER SIGNALS AND SYSTEMS ELECTRONIC DEVICES AND CIRCUITS LAB DIGITAL SYSTEM DESIGN LAB DIGITAL SYSTEM DESIGN ELECTRONIC DEVICES AND CIRCUITS NETWORK ANALYSIS AND TRANSMISSION LINES BASIC SIMULATION LAB PROBABILITY THEORY AND STOCHASTIC PROCESSES CONSTITUTION OF INDIA   SEMESTER CONTROL SYSTEMS MICROPROCESSORS  MICROCONTROLLERS COMPUTER ORGANIZATION  OPERATING SYSTEMS DATA COMMUNICATIONS AND NETWORKS DATA COMMUNICATIONS AND NETWORKS LAB BUSINESS ECONOMICS  FINANCIAL ANALYSIS ADVANCED COMMUNICATION SKILLS LAB MICROPROCESSORS  MICROCONTROLLERS LAB CYBER SECURITY  INTELLECTUAL PROPERTY RIGHTS   SEMESTER DIGITAL IMAGE PROCESSING PYTHON PROGRAMMING PROJECT STAGE -  MICROWAVE AND OPTICAL COMMUNICATIONS DATABASE MANAGEMENT SYSTEMS PROFESSIONAL PRACTICE, LAW  ETHICS MICROWAVE AND OPTICAL COMMUNICATIONS LAB SEMINAR Number of Credits registered and secured are: Aggregate MarksCGPA Secured : 7.03 Date of Issue.",
@@ -269,6 +286,33 @@
       "sentence": "Il Semester (R18) Regular a a : ELECTRONICS  COMMUNICATION ENGINEERING.",
       "original_index": 58,
       "semester_pattern_match": null
+    }
+  ],
+  "Screenshot from 2025-06-11 11-44-32.pdf": [
+    {
+      "sentence": "The detail of garde are given as under:- FIRST Semester Apr-2016 SECOND Semester EDP No.",
+      "original_index": 5,
+      "semester_pattern_match": "FIRST Semester"
+    },
+    {
+      "sentence": "Nov-2018 1000613803 Engineering Mathematics-I (BTAM-101 iT 8  5 fengmeering Mathematics-II (BTAM-102 MEE ngineering Chemistry (BTCH-101 ty 4    Basic Electrical and Electronics Engineering (BTEE- id a a  101 POE OG SUEY RON ETY Nolsae ae PY A  2 Basic Electrical and Electronics Engineering id aa (El B Laboratory (BTEE-102 Fundamentals of ComputerProgramming and IT T BTCS-101 Communicative English (BTHU-101 vy oe Ts  Fundamentals of ComputerProgramming and IT ind Mal eel F  s ahordbery (TC 102 Communicative English Laboratory (BTHU-102 Py Oo ff  Elements of Mechanical Engineering (BTME-101 ry) Se TF  Manufactunng Practice (BTMP-101 ld aa Ea Engineering Drawing (BTME-102 iT 8  4  Engineering Physics (BTPH-101 Ty At fT 4  Engineering Computer Graphics Laboratory (BTME- id al ed Engineering Physics Laboratory (BTPH-102 PY At fT 2  103 Environment Science (EVSC-101) 9 LN BG el Py 98 f   Semester Grade Point Average (561 : .",
+      "original_index": 6,
+      "semester_pattern_match": null
+    },
+    {
+      "sentence": "jHuman Values and Professiona thics (HVPE-101 - THIRD Semester EDP No.",
+      "original_index": 8,
+      "semester_pattern_match": "THIRD Semester"
+    },
+    {
+      "sentence": "Nov-2018 ome G 1000746443   FOURTH Semester EDP No.",
+      "original_index": 9,
+      "semester_pattern_match": "FOURTH Semester"
+    },
+    {
+      "sentence": "Semester Grade Porm Average (SGPA): 7.15 Earned credits 26 __YSteM Programming Lab (BTCS409 ld BL al tine ina fceneralFiness (rs) Cd SS OT CO 1000291522  pemectmeme  Sas nit SIXTH Semester EDP No.",
+      "original_index": 13,
+      "semester_pattern_match": "SIXTH Semester"
     }
   ]
 }
