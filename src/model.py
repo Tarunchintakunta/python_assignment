@@ -171,3 +171,6 @@ class SemesterClassifier:
         logger.info(f"Model loaded from {model_path}")
         
         return instance
+    
+
+    
